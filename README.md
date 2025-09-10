@@ -30,7 +30,7 @@ I enjoy collaborating with other developers, solving challenging problems, and t
 </ul>
 <br>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠️ Languages and Tools:</h2>
 
 ###
 
@@ -81,6 +81,7 @@ I enjoy collaborating with other developers, solving challenging problems, and t
 <br clear="both">
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=chethan7032&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chethan7032&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=chethan7032&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -90,7 +91,65 @@ I enjoy collaborating with other developers, solving challenging problems, and t
 
 ###
 
-<h3 align="left">How you can contact me.......</h3>
+
+<h2 align="left">💼 Experience</h2>
+
+###
+
+**Software Developer**  
+*Covalense Digital — Mar 2025 – Present, Bengaluru*  
+- Contributing to the development of the company’s core **CRM product** built on **Laravel**.  
+- Designing and implementing new backend features to meet client requirements.  
+- Built and optimized **REST APIs** and **MySQL queries**, improving performance and data consistency.  
+- Integrated **SigNoz** for APM, using **Docker** for containerization and **Apache Kafka** for event streaming.  
+- Collaborated with product and QA teams to debug production issues and enhance scalability.  
+
+---
+
+**Intern**  
+*Hindustan Aeronautics Limited (HAL) — Jun 2023 – Jul 2023, Bengaluru*  
+- Learned about testing workflows and participated in **simulating elevon movement in aircraft**.  
+- Built an **aircraft model using Arduino** to simulate pitch and roll dynamics.  
+
+---
+
+###
+
+<h2 align="left">🚀 Projects</h2>
+
+###
+
+**Tech Enlightenment**  
+*HTML | CSS | JavaScript*  
+- Built a fully functional website providing curated resources for developers and students.  
+- Included roadmaps, programming books, notes, and event updates.  
+[🔗 GitHub](https://github.com/chethan7032)
+
+---
+
+**Taste Dash**  
+*React.js | Node.js | Express.js | MongoDB | HTML | CSS*  
+- Developed a **food ordering application** with add-to-cart functionality.  
+- Designed user-friendly UI and optimized backend for efficient order processing.  
+[🔗 GitHub](https://github.com/chethan7032/Taste-Dash-Food-ordering-app-)
+
+---
+
+**Parking Spot Indicator**  
+*Python (OpenCV) | Firebase | HTML | CSS*  
+- Created a web-based system to manage parking availability using **computer vision**.  
+- Provided real-time updates on slot status with **admin & user dashboards**.  
+[🔗 GitHub](https://github.com/chethan7032/parking-slot-indicator-main-project-)
+
+---
+
+**Other Freelance Projects**  
+- Delivered **20+ college-level projects** as a freelance consultant.  
+- Spanned domains like **chatbots, CRMs, dashboards, and automation tools**.
+
+ ###
+<br>
+ <h2 align="left">📫 Connect with me:</h2>
 
 ###
 
@@ -98,9 +157,14 @@ I enjoy collaborating with other developers, solving challenging problems, and t
   <a href="www.linkedin.com/in/g-chethan-reddy-33924b25a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  
+  <a href="https://www.instagram.com/tech.strikers?utm_source=qr&igsh=Y3Y3Z2g1aW5idnR4 " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="chethanreddy118@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  
 </div>
 
-###
+
