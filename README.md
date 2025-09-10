@@ -9,19 +9,26 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
+<h2 align="left">👨‍💻About Me:</h2>
 
 <br clear="both">
 
-<img align="right" height="180" src="assets/RPjw1l5Ju9 (1).gif"  />
+<img align="right" height="300" src="assets/RPjw1l5Ju9 (1).gif"  />
 
-###
+<p align="left">
+I am a passionate software developer with a keen interest in open source contributions and innovative technologies.  
+I enjoy collaborating with other developers, solving challenging problems, and turning ideas into impactful products.
+</p>
 
-<h5 align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</h5>
-
-###
+<ul align="left">
+  <li>🔭 I’m currently working as a <b>Software Developer at Covalense Digital Solutions</b></li>
+  <li>🌱 Actively learning and exploring <b>MERN stack, Laravel, and Cloud technologies</b></li>
+  <li>💡 Strong interest in <b>AI, Machine Learning, and Data-Driven Applications</b></li>
+  <li>🛠 Experienced in building <b>CRM solutions, chatbots, and scalable web apps</b></li>
+  <li>🤝 Open to collaborating on <b>open source and real-world impactful projects</b></li>
+  <li>⚡ Fun fact: I love mixing tech with creativity — whether it’s coding, designing, or creating memes for my page <a href="https://instagram.com/tech.strikers"><b>Tech.Strikers</b></a></li>
+</ul>
+<br>
 
 <h2 align="left">I code with</h2>
 
