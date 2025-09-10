@@ -2,18 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=65C5D4&center=false&vCenter=true&width=435&lines=Hey+👋+I'm+Chethan;Full+Stack+Developer;I+love+building+web+apps;Always+learning+new+tech!" />
 </p>
 
+---
 
-###
-
-
-
-###
-
-<h2 align="left">👨‍💻About Me:</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 <br clear="both">
 
-<img align="right" height="300" src="assets/RPjw1l5Ju9 (1).gif"  />
+<img align="right" height="250" src="assets/RPjw1l5Ju9 (1).gif"  />
 
 <p align="left">
 I am a passionate software developer with a keen interest in open source contributions and innovative technologies.  
@@ -28,11 +23,10 @@ I enjoy collaborating with other developers, solving challenging problems, and t
   <li>🤝 Open to collaborating on <b>open source and real-world impactful projects</b></li>
   <li>⚡ Fun fact: I love mixing tech with creativity — whether it’s coding, designing, or creating memes for my page <a href="https://instagram.com/tech.strikers"><b>Tech.Strikers</b></a></li>
 </ul>
-<br>
 
-<h2 align="left">🛠️ Languages and Tools:</h2>
+---
 
-###
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -72,32 +66,24 @@ I enjoy collaborating with other developers, solving challenging problems, and t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">Github stats</h3>
-
-###
-
-<br clear="both">
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=chethan7032&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chethan7032&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=chethan7032&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=chethan7032&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chethan7032&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chethan7032&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chethan7032&layout=compact&langs_count=5&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=chethan7032&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chethan7032&theme=dracula&column=4" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chethan7032&theme=react-dark&area=true" height="300" />
 </div>
 
-###
-
+---
 
 <h2 align="left">💼 Experience</h2>
 
-###
-
-**Software Developer**  
-*Covalense Digital — Mar 2025 – Present, Bengaluru*  
+**Software Developer — Covalense Digital Solutions**  
+*Mar 2025 – Present | Bengaluru, India*  
 - Contributing to the development of the company’s core **CRM product** built on **Laravel**.  
 - Designing and implementing new backend features to meet client requirements.  
 - Built and optimized **REST APIs** and **MySQL queries**, improving performance and data consistency.  
@@ -106,20 +92,16 @@ I enjoy collaborating with other developers, solving challenging problems, and t
 
 ---
 
-**Intern**  
-*Hindustan Aeronautics Limited (HAL) — Jun 2023 – Jul 2023, Bengaluru*  
+**Intern — Hindustan Aeronautics Limited (HAL)**  
+*Jun 2023 – Jul 2023 | Bengaluru*  
 - Learned about testing workflows and participated in **simulating elevon movement in aircraft**.  
 - Built an **aircraft model using Arduino** to simulate pitch and roll dynamics.  
 
 ---
 
-###
-
 <h2 align="left">🚀 Projects</h2>
 
-###
-
-**Tech Enlightenment**  
+**📚 Tech Enlightenment**  
 *HTML | CSS | JavaScript*  
 - Built a fully functional website providing curated resources for developers and students.  
 - Included roadmaps, programming books, notes, and event updates.  
@@ -127,7 +109,7 @@ I enjoy collaborating with other developers, solving challenging problems, and t
 
 ---
 
-**Taste Dash**  
+**🍔 Taste Dash**  
 *React.js | Node.js | Express.js | MongoDB | HTML | CSS*  
 - Developed a **food ordering application** with add-to-cart functionality.  
 - Designed user-friendly UI and optimized backend for efficient order processing.  
@@ -135,7 +117,7 @@ I enjoy collaborating with other developers, solving challenging problems, and t
 
 ---
 
-**Parking Spot Indicator**  
+**🚗 Parking Spot Indicator**  
 *Python (OpenCV) | Firebase | HTML | CSS*  
 - Created a web-based system to manage parking availability using **computer vision**.  
 - Provided real-time updates on slot status with **admin & user dashboards**.  
@@ -147,24 +129,27 @@ I enjoy collaborating with other developers, solving challenging problems, and t
 - Delivered **20+ college-level projects** as a freelance consultant.  
 - Spanned domains like **chatbots, CRMs, dashboards, and automation tools**.
 
- ###
-<br>
- <h2 align="left">📫 Connect with me:</h2>
+---
 
-###
+<h2 align="left">🏆 Achievements</h2>
+
+- 📸 Grew my Instagram tech page **[Tech.Strikers](https://www.instagram.com/tech.strikers?utm_source=qr&igsh=Y3Y3Z2g1aW5idnR4)** to 30,000+ followers.  
+- 🎓 Awarded **RDT Scholarship** for academic excellence.  
+- 💼 Delivered 20+ freelance projects for university students.  
+- 🧩 Solved 350+ coding challenges on multiple platforms.  
+
+---
+
+<h2 align="left">📫 Connect with Me</h2>
 
 <div align="left">
-  <a href="www.linkedin.com/in/g-chethan-reddy-33924b25a" target="_blank">
+  <a href="https://www.linkedin.com/in/g-chethan-reddy-33924b25a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  
-  <a href="https://www.instagram.com/tech.strikers?utm_source=qr&igsh=Y3Y3Z2g1aW5idnR4 " target="_blank">
+  <a href="https://www.instagram.com/tech.strikers?utm_source=qr&igsh=Y3Y3Z2g1aW5idnR4" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="chethanreddy118@gmail.com" target="_blank">
+  <a href="mailto:chethanreddy118@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  
 </div>
-
-
