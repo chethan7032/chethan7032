@@ -1,8 +1,11 @@
-<h1 align="left">Hey 👋 I am Chethan</h1>
+<p align="left"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=65C5D4&center=false&vCenter=true&width=435&lines=Hey+👋+I'm+Chethan;Full+Stack+Developer;I+love+building+web+apps;Always+learning+new+tech!" />
+</p>
+
 
 ###
 
-<p align="left">And i am Full stack developer</p>
+
 
 ###
 
